@@ -1,0 +1,2 @@
+button{background-color: pink; color: black; border: none; border-radius:10px; box-shadow: 0px 0px 5px 5px pink}
+button:hover{background-color: purple; color: black; border:none; border-radius:10px; box-shadow: 0px 0px 5px 5px purple}
